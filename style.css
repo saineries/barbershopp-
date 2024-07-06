@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+    background-image: url('images/barbershop-bg.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar{
+    background-color: black;
+}
+
+.nav-link {
+    text-decoration: underline;
+}
+
+.footer{
+    background-color: black;
+}
